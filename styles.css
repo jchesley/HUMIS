@@ -1,0 +1,83 @@
+
+/* General page styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf4f8;
+    color: #333333;
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #24577a;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Main content */
+main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Sections and articles */
+section, article {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/* Headings */
+h2 {
+    color: #24577a;
+}
+
+h3 {
+    color: #477a53;
+}
+
+/* Bird images */
+article img {
+    width: 300px;
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 15px auto;
+}
+
+/* Lists */
+ul {
+    background-color: #f1f7f2;
+    padding: 20px 20px 20px 40px;
+    border-radius: 5px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Links */
+a {
+    color: #1766a0;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background-color: #24577a;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
